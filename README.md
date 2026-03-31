@@ -1,9 +1,12 @@
-# Hi 👋, I'm Krishnaveni Mitukula
+# Hi 👋, 
+
+I'm Krishnaveni Mitukula
 
 🎓 BCA Student  
 💻 Aspiring Data Analyst  
 🚀 Passionate about coding & problem solving  
-
+💻 Aspiring Data Analyst & App Developer
+🌱 Currently learning: Python, SQL, R, Android Development�
 ---
 
 ## 🔭 About Me

@@ -88,5 +88,3 @@
 
 ---
 
-## 👀 Profile Views
-![](https://visitcount.itsvg.in/api?id=KrishnaveniMitukula&icon=0&color=0)

@@ -3,11 +3,10 @@
 I'm Krishnaveni Mitukula
 
 🎓 BCA Student  
-💻 Aspiring Data Analyst  
-🚀 Passionate about coding & problem solving  
 💻 Aspiring Data Analyst & App Developer
-🌱 Currently learning: Python, SQL, R, Android Development�
----
+🚀 Passionate about coding & problem solving  
+
+
 
 ## 🔭 About Me
 - 🔭 I’m currently working on Data Analytics Projects using Python & Pandas  

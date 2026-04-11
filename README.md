@@ -1,4 +1,4 @@
-# Hi 👋, 
+# Hi 👋 
 
 I'm Krishnaveni Mitukula
 
@@ -80,9 +80,7 @@ I'm Krishnaveni Mitukula
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=KrishnaveniMitukula&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaveniMitukula&layout=compact&theme=radical)
 
----
 
 ## 📈 Contribution Graph (Dots 🔥)
 
